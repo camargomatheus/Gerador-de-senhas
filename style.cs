@@ -29,5 +29,41 @@ body{
     text-align: center;
     margin-top: 80px;
 }
+.conteudo-senha{
+    background: var(--fundo-senha);
+    padding: 24px;
+    border-bottom: 6px solid var(--borda);
+}
+#campo-senha {
+    background-color: var(--fundo-senha);
+    border: none;
+    color: var(--branco);
+    font-family: var(--roboto-mono);
+    font-size: 40px;
+}
+#campo-senha {
+    /* Código omitido */
+}
+
+#campo-senha:focus {
+    outline: none;
+}
+#campo-senha:focus {
+    /* Código omitido */
+}
+
+.conteudo{
+    max-width: 1200px;
+}
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.conteudo-senha{
+    margin-top: 80px;
+    background: var(--fundo-senha);
+    padding: 24px;
+    border-bottom: 6px solid var(--borda);
+}
 
 
